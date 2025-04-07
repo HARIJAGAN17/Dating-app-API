@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2kTO34gzu0E=",
+  "dgSpecHash": "nhDyhLN/OJs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\285058\\Desktop\\Dating app\\BackEnd\\Dating API\\Dating API.csproj",
+  "projectFilePath": "C:\\Users\\285058\\Desktop\\Dating app\\BackEnd\\Dating-app-API\\Dating API\\Dating API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\285058\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.3\\microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
     "C:\\Users\\285058\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
